@@ -1,6 +1,6 @@
 | №  | Title | HW | prerequisites
 |---|---|---|---|
-|  1 | Основы архитектуры компьютера и OS  | [Работа процессора](https://youtu.be/k9wK2FThEsk?si=clweXpZTz1qKX-gD), [работа памяти](https://youtu.be/Wh22_O8jXVQ?si=kliKi1F-pNgqy7m9) | [АКОС CSC](https://youtu.be/hb9CTGSJm88?si=CsxvAnFICzmTObFR)  |
+|  1 | [Основы архитектуры компьютера и OS](https://github.com/Acool4ik/EDU_PROG/blob/master/lessons/less1.one)  | [Работа процессора](https://youtu.be/k9wK2FThEsk?si=clweXpZTz1qKX-gD), [работа памяти](https://youtu.be/Wh22_O8jXVQ?si=kliKi1F-pNgqy7m9) | [АКОС CSC](https://youtu.be/hb9CTGSJm88?si=CsxvAnFICzmTObFR)  |
 |  2 | Процесс запуска интерпретируемых и компилируемых программ из-под коммандной строки  |  | [pvm](https://pythonchik.ru/osnovy/kak-rabotaet-python-interpretator) |
 |  3 | Основные части ядра Linux. Дистрибутивы  |  | |
 |  4 | Оценки сложности алгоритмов  |  | |
