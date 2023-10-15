@@ -1,6 +1,6 @@
 | №  | Title | HW | prerequisites
 |---|---|---|---|
-| 1 | [Основы архитектуры компьютера и OS](https://github.com/Acool4ik/EDU_PROG/blob/master/lessons/less1.one)  | [Работа процессора](https://youtu.be/k9wK2FThEsk?si=clweXpZTz1qKX-gD), [работа памяти](https://youtu.be/Wh22_O8jXVQ?si=kliKi1F-pNgqy7m9) | [AKOS CSC light](https://www.youtube.com/watch?v=GMlTmG2KJH4), [АКОС CSC hard](https://youtu.be/hb9CTGSJm88?si=CsxvAnFICzmTObFR)
+| 1 | [Основы архитектуры компьютера и OS](https://github.com/Acool4ik/EDU_PROG/blob/master/lessons/less1.one)  | [Работа процессора](https://youtu.be/k9wK2FThEsk?si=clweXpZTz1qKX-gD), [работа памяти](https://youtu.be/Wh22_O8jXVQ?si=kliKi1F-pNgqy7m9), [схема ядра](https://younglinux.info/images/bash/kernel/kernel_glibc.png) | [AKOS CSC light](https://www.youtube.com/watch?v=GMlTmG2KJH4), [АКОС CSC hard](https://youtu.be/hb9CTGSJm88?si=CsxvAnFICzmTObFR)
 | 2 | Языки программирования, этапы трансляции | [языки и трансляция](https://www.youtube.com/watch?v=PS4S8BnURYU) | [pvm](https://pythonchik.ru/osnovy/kak-rabotaet-python-interpretator)
 | 3 | Assembler, прерывания | [guide](https://web.archive.org/web/20120202091811/http://asm.sourceforge.net/howto/quickstart.html), [online asm](https://www.jdoodle.com/compile-assembler-gcc-online/) | [asm](https://stepik.org/lesson/41867/step/1?unit=20185) |
 | 4 | Основные части ядра Linux. Дистрибутивы  | Практика устрановки Ubuntu на VM | [компоненты os](https://www.youtube.com/watch?v=gibhnkVpngM&t=2114s) |
