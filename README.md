@@ -7,7 +7,7 @@
 | 5 | Виртуальные машины | Реализация stack based vm + простая программа на нем | [src1](https://habr.com/ru/companies/intel/articles/254793/), [src2](http://www.sternkn.com/stack-based-vs-register-based-virtual-machine-architecture-and-the-dalvik-vm/)
 | 6 | Длинная арифметика  | Реализовать BigInt | - | -
 | 7 | Оценки сложности алгоритмов  | (здесь будет листочек) | (здесь будет теория мб) |
-| 8 | Сегментация, paging. Кеш-память  | Реализация простого блочного аллокатора | [кеш](https://www.youtube.com/watch?v=7n_8cOBpQrg), [физическая, виртуальная память & сегментация, paging](https://stepik.org/lesson/44325/step/1?unit=22141)
+| 8 | Кеш-память. Физическая и виртуальная память | Реализация простого блочного аллокатора | [кеш](https://www.youtube.com/watch?v=7n_8cOBpQrg), [memory management course](https://stepik.org/lesson/44325/step/1?unit=22141)
 | 9 | Сегменты памяти программ. Общая структура исполняемых файлов. Запуск исполняемых файлов в OS  | Анализируем вывод strace + mmap при запуске простой программы | [stack runtime](https://www.youtube.com/watch?v=MXoMuymbfo8&t=1s), [heap vs stack](https://www.youtube.com/watch?v=_8-ht2AKyH4&t=2s)
 | 10 | Файловые системы. FAT32  | Смотрим общую структуру VFS | [fat32](https://www.youtube.com/watch?v=FQ_xeY0eCpA)
 | 11 | Контекст исполнения программ. Процессы и потоки. Планировщик. IPC  | Распараллеливаем некоторые алгоритмы | [context, switching, multithreding](https://stepik.org/lesson/44334/step/1?unit=22143), [all](https://www.youtube.com/watch?v=DFdNMXNoWn8), [parallel py](https://www.youtube.com/watch?v=QitEF7Qvi4w&t=58s)
